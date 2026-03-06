@@ -5,7 +5,7 @@ https://docs.google.com/spreadsheets/d/1sgjZCzSm74SpFO3mT2y9Xk_OrHESxQ3xAgAuiUvR
 
 owed_amount = amount * portion / total
 
-Report generated on 2026-03-06 00:31
+Report generated on 2026-03-06 00:32
 
 ## Total Expenses
 7265.04
@@ -25,13 +25,14 @@ Report generated on 2026-03-06 00:31
 | haeyung | 0.00 | 344.42 | -344.42 |
 
 ## Minimized Transactions
-Sugar daddy ben pays for sugar baby sherina
-Sugar daddy keiton pays for sugar baby haeyung
-Sugar daddy eric pays for sugar baby mandy
 - eric pays 262.45 to sherina
 - harry pays 139.98 to sherina
 - harry pays 173.38 to ben
 - chris pays 636.88 to ben
 - keiton pays 893.84 to ben
 - hyeok pays 1303.06 to ben
-Venmo: @benzhong
+#### Note
+- Sugar daddy ben pays for sugar baby sherina
+- Sugar daddy keiton pays for sugar baby haeyung
+- Sugar daddy eric pays for sugar baby mandy
+## Venmo: @benzhong
