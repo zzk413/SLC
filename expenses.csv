@@ -1,28 +1,31 @@
-Item,description,amount,paid_by,ben,sherina,keiton,chris,hyeok,michael,alex,total
-BNB,,1,ben,421.30,421.30,421.30,358.46,225.78,260.70,265.35,1
-CAR,,1,keiton,284.51,284.51,284.51,244.25,171.78,179.83,197.28,1
-walmart,slippers+tax,9.65,alex,0,0,1,1,1,0,1,4
-walmart,peanut butter ,5.0264,alex,1,0,0,0,0,0,0,1
-walmart,low fat pb,3.2136,alex,0,0,0,0,1,0,1,2
-walmart,mayo jalapeno,8.3533,alex,0,0,1,0,0,0,0,1
-walmart,candies chips,15.9856,alex,0,1,1,1,1,0,1,5
-walmart,rest,67.6011,alex,1,1,1,1,1,1,1,7
-gas,,38.82,ben,1,1,1,1,1,1,1,7
-ichiran,ramen,32,ben,1,1,0,1,1,0,1,4
-costco,pork chops asparagus wings etc.,197.56,sherina,1,1,1,1,0,1,1,5
-costco,fairlife milk,35,sherina,1,0,1,1,0,1,1,4
-costco ,salmon & 2 yogurt,42.37,sherina,1,1,1,1,0,1,0,5
-costco ,pizza,10.87,sherina,1,1,1,1,0,1,1,5
-gas,,42,alex,1,1,1,1,1,1,1,6
-costco,"steak, toe warmer, bananas, protein bar, water, fairlife",181.73,keiton,1,1,1,1,0,0,1,4
-chinatown grocery,misc.,38.75,sherina,1,1,1,1,1,0,1,5
-chinatown grocery,a choy,5,sherina,1,1,1,1,0,1,1,5
-uber,Keiton flat tire,11,chris,1,1,1,1,1,1,1,6
-costco ,pork chops/wings/milk/water/2 yogurt/brocolli,74.89,keiton,1,1,1,1,1,1,0,6
-gas ,,49.28,ben,1,1,1,1,0,1,1,5
-harmons,soap tp etc.,11.39,ben,1,1,1,1,1,1,0,6
-harmons,fried chicken,13,sherina,1,1,1,1,1,1,0,6
-kfc,,53.13,ben,1,1,1,1,1,1,0,6
-gas ,,40,sherina,1,1,1,1,1,1,0,6
-gas,,41.78,keiton,1,1,1,1,1,1,0,6
-gas ,,15.92,keiton,1,1,1,1,1,1,0,6
+Item,description,amount,paid_by,ben,sherina,keiton,chris,hyeok,haeyung,harry,mandy,eric,TOTAL
+BNB,by /person/nights,"2,758.52",ben,0.164948454,0.164948454,0.164948454,0.164948454,0.164948454,0.051546392,0.041237113,0.041237113,0.041237113,1.000000000
+Suburu + fuel,by /person/day,582.54,keiton,0.160377358,0.160377358,0.160377358,0.160377358,0.160377358,0.056603774,0.047169811,0.047169811,0.047169811,1.000000000
+Van + fuel,by /person/day,"1,383.20",ben,0.160377358,0.160377358,0.160377358,0.160377358,0.160377358,0.056603774,0.047169811,0.047169811,0.047169811,1.000000000
+Ramen,,136.00,Chris,1,1,1,1,1,,,,,5
+Trader Joes,,49.33,Hyeok,1,1,1,1,1,,,,,5
+Sushi,,309.23,Ben,1,1,1,1,1,1,1,,,7
+parking,,5.00,Ben,1,1,1,1,1,,,,,5
+hanabi (nova),,24.00,Ben,,,,1,,,,,,1
+ticket,,25.00,Ben,1,1,1,1,1,,,,,5
+paik,,21.40,ben,,,,,1,,,,,1
+drug,,18.00,ben,,,,,1,,,,,1
+lucky grocery,,18.79,ben,1,1,1,1,1,1,,,,6
+kbbq grocery,,147.69,ben,1,1,1,1,1,1,,,,6
+dabs ,,34.06,chris,1,1,1,1,1,1,,,,6
+pho 777,,148.88,ben,0.1525351874,0.2034085128,0.1355774122,0.1355774122,0.2118874004,,0.161014075,,,1
+chinatown grocery 2nd,,133.30,ben,1,1,1,1,1,0.2,0.2,,,5.4
+lucky grocery 2,,14.08,sherina,1,1,1,1,1,,,,,5
+costco 1st,,227.43,ben,1,1,1,1,1,0.2,0.2,,,5.4
+costco 2nd,steak,58.68,sherina,1,1,,1,1,,1,,,5
+costco 2nd,celcius,24.00,sherina,,,,,1,,,,,1
+costco 2nd,rest,177.31,sherina,1,1,1,1,1,,,,,5
+mensho,,279.65,eric,0.1076923077,0.1,0.1769230769,0.1769230769,0.1192307692,,0,0.1076923077,0.2115384615,1
+chinatown grocery 1st,this man didn't pay somehow,0.00,hyeok,1,1,1,1,1,,,,,5
+snowbird pizza,,54.22,sherina,1,1,,1,1,,1,,,5
+costco water ,,8.22,chris ,1,1,1,1,1,,,,,5
+snowbird locker ,,14.00,chris,1,1,,1,1,,1,,,5
+hotpot ombu ,,318.95,chris,0.1485856638,0.1285358406,0.1485856638,0.1485856638,0.1485856638,,,0.1285358406,0.1485856638,1
+uber to airport,,26.34,chris,1,1,1,1,,,,,,4
+snowbird locker 2,,17.00,chris,1,1,1,1,1,,,1,1,7
+uber to exo,,30.34,ben,1,1,,1,,,,,,3
